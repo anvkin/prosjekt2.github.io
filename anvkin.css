@@ -91,6 +91,10 @@ ul {
 ul>li {
     margin-top: 5px;
 }
+audio {
+    grid-row-start: 4;
+    margin top: 0px;
+}
 
 .ul-element1 {
     grid-row-start: 3;
@@ -98,7 +102,7 @@ ul>li {
 
 .img-element1 {
     margin-left: 10px;
-    grid-row-start: 4;
+    grid-row-start: 5;
     margin-bottom: 30px;
     border-style: solid;
     border-color: firebrick;
