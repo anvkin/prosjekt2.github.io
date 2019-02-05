@@ -99,4 +99,9 @@ ul>li {
 .img-element1 {
     margin-left: 10px;
     grid-row-start: 4;
+    margin-bottom: 30px;
+    border-style: solid;
+    border-color: firebrick;
+    border-width: 5px;
+    border-radius: 10%
 }
